@@ -1,6 +1,6 @@
-# Laplace Core 15 stable (?
+# Laplace Core
 
-Laplace is a Minecraft server management panel that integrates a backend API, WebSocket real-time communication, and a powerful TUI (Terminal User Interface).
+Laplace is a modern Minecraft server management panel that integrates a backend API, WebSocket real-time communication, and a powerful TUI (Terminal User Interface).
 
 ## Highlight  
 
