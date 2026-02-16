@@ -1,0 +1,5 @@
+{
+  "name": "Laplace Server Control",
+  "description": "A modern, professional Minecraft server control panel featuring RCON management, file handling, and player analytics.",
+  "requestFramePermissions": []
+}
