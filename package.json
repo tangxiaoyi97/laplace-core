@@ -1,12 +1,30 @@
 {
-  "name": "laplace-server-control",
-  "private": true,
-  "version": "0.0.0",
+  "name": "laplace-core",
+  "version": "1.0.0",
+  "description": "A modern, professional Minecraft server control panel featuring RCON management, file handling, and player analytics.",
   "type": "module",
+  "main": "backend/server.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangxiaoyi97/laplace-core.git"
+  },
+  "keywords": [
+    "minecraft",
+    "rcon",
+    "panel",
+    "server-management"
+  ],
+  "author": "Tangxiaoyi97",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tangxiaoyi97/laplace-core/issues"
+  },
+  "homepage": "https://github.com/tangxiaoyi97/laplace-core#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "npx ts-node backend/server.ts"
   },
   "dependencies": {
     "express": "^5.2.1",
