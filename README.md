@@ -30,7 +30,7 @@ npx ts-node backend/server.ts
 
 ## credits
 
-**First author** - 只吃香菜/EdEncore
+**First author** - 只吃香菜/EdEncore  
 **Second author** - 唐晓翼/Tangxiaoyi97
 
 **contributors**:
