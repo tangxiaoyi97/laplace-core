@@ -35,6 +35,7 @@ npx ts-node backend/server.ts
 
 **contributors**:
 - 缅甸高薪招聘13845785726
+- carnival
 - 令狐睡觉
 - karl e.
 
